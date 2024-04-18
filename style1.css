@@ -16,6 +16,7 @@ header{
     margin: 12vh 15vh; 
     box-shadow: 10px 5px 5px grey;
     border: 5px solid grey;
+    border-radius: 8px;
 }
 .box2{
     display: inline-block;
@@ -24,6 +25,7 @@ header{
     margin: 12vh 15vh; 
     box-shadow: 10px 5px 5px grey;
     border: 5px solid grey;
+    border-radius: 8px;
 }
 .box3{
     display: inline-block;
@@ -32,6 +34,7 @@ header{
     margin: 12vh 15vh; 
     box-shadow: 10px 5px 5px grey;
     border: 5px solid grey;
+    border-radius: 8px;
 }
 .box4{
     display: inline-block;
@@ -40,6 +43,7 @@ header{
     margin: 12vh 15vh; 
     box-shadow: 10px 5px 5px grey;
     border: 5px solid grey;
+    border-radius: 8px;
 }
 .box5{
     display: inline-block;
@@ -48,6 +52,7 @@ header{
     margin: 12vh 15vh; 
     box-shadow: 10px 5px 5px grey;
     border: 5px solid grey;
+    border-radius: 8px;
 }
 .box6{
     display: inline-block;
@@ -56,6 +61,7 @@ header{
     margin: 12vh 15vh; 
     box-shadow: 10px 5px 5px grey;
     border: 5px solid grey;
+    border-radius: 8px;
 }
 footer{
     text-align: center;
